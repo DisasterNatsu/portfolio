@@ -1,0 +1,20 @@
+<svg viewBox="0 0 290 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    
+    .heavy {
+      font: bold 40px sans-serif;
+      fill: white;
+    }
+
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: bold 40px sans-serif;
+      fill: #FF004D;
+    }
+  </style>
+
+ 
+  <text x="40" y="35" class="heavy">Shilajit</text>
+  <text x="185" y="35" class="Rrrrr">Dutta.</text>
+</svg>
